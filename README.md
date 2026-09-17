@@ -1,5 +1,7 @@
 # CHORUS: Checkpoint Orchestration with Rate-limiting and Unified Service-policies <br> *Advanced Computing Project*
 
+## Grade: 18/20 ⭐
+
 ## Assignment
 
 > **Advisors:**
